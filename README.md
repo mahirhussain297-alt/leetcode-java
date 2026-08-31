@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
+| [1572-matrix-diagonal-sum](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/1572-matrix-diagonal-sum) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/0054-spiral-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
