@@ -14,7 +14,7 @@ class Solution {
             reverse(nums,0,n-1);
             return;
         }
-        //step3:now the number than pivot
+        //step3:now the number  greater than pivot
         for(int i=n-1;i>pivot;i--){
             if(nums[i]>nums[pivot]){
                 int temp = nums[i];
