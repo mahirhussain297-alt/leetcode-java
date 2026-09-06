@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/0031-next-permutation) |
 | [0054-spiral-matrix](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/0136-single-number) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/2149-rearrange-array-elements-by-sign) |
