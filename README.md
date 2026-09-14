@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/0268-missing-number) |
@@ -103,4 +104,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
