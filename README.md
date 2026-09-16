@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/0836-rectangle-overlap) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/0152-maximum-product-subarray) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/mahirhussain297-alt/leetcode-java/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
